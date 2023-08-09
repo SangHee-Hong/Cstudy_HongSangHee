@@ -1,19 +1,26 @@
 #include <stdio.h>
 
 int main() {
-    int n;
-    scanf("%d", &n); // 테스트케이스 개수 입력
-
-    for (int i = 0; i < n; i++) {
-        double a;
-        scanf("%lf", &a); // 판자의 모서리 길이 입력
-
-        // 최대 부피를 계산하는 b의 값을 찾는 과정
-        double b = a / 6.0; // 정사각형을 bxb 크기로 자르면 b만큼 높이가 됨
-
-        // 소수점 아래 10자리까지 출력
-        printf("%.10lf\n", b);
+    int h, m;
+    scanf("%d %d", &h, &m);
+    if (h == 0) {
+        if (m >= 45) {
+            m = m - 45;
+            printf("%d %d", h, m);
+        }
+        else {
+            m = m + 60 - 45;
+            printf("%d %d", 23, m);
+        }
     }
-
-    return 0;
+    else {
+        if (m >= 45) {
+            m = m - 45;
+            printf("%d %d", h, m);
+        }
+        else {
+            m = m + 60 - 45;
+            printf("%d %d", h - 1, m);
+        }
+    }
 }
