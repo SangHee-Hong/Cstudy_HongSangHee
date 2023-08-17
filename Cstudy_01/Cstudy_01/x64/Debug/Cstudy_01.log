@@ -1,0 +1,74 @@
+﻿  1_Lab02_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab02_1.c(6,5): warning C4013: 'scan_f'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  1_Lab02_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab02_2.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab02_2.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab02_2.c(13,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab03_1.c
+c1 : fatal  error C1083: 소스 파일을 열 수 없습니다. '1_Lab03_1.c': No such file or directory
+  1_Lab03_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab03_2.c(5,2): error C2146: 구문 오류: ';'이(가) 'scanf' 식별자 앞에 없습니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab03_2.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab04_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab04_1.c(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab04_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab04_2.c(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab05_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_1.c(6,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab05_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(7,13): error C2057: 상수 식이 필요합니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(7,14): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(7,9): error C2133: 'arr': 알 수 없는 크기입니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab05_2.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab06_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab06_1.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab06_1.c(7,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab06_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab06_2.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab06_2.c(11,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab07_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab07_1.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab07_1.c(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab07_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab07_2.c(17,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab08_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,16): error C2057: 상수 식이 필요합니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,27): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,9): error C2133: 'height': 알 수 없는 크기입니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,37): error C2057: 상수 식이 필요합니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,48): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(7,30): error C2133: 'weight': 알 수 없는 크기입니다.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_1.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab08_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_2.c(41,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab08_2.c(44,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab09_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab09_1.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab09_1.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1_Lab09_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab09_2.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\1_Lab09_2.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SUMMER_Lab01_1.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_1.c(11,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_1.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_1.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_1.c(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SUMMER_Lab01_2.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_2.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SUMMER_Lab01_3.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_3.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SUMMER_Lab01_4.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_4.c(34,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_4.c(38,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_4.c(41,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_4.c(47,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_4.c(50,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  SUMMER_Lab01_5.c
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_5.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hongd\OneDrive\바탕 화면\Forza\Cstudy_01\Cstudy_01\SUMMER_Lab01_5.c(13,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
